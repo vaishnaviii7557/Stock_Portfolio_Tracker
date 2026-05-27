@@ -1,0 +1,26 @@
+[
+    {
+        "date": "27-05-2026 01:03:55",
+        "action": "ADDED",
+        "symbol": "AAPL",
+        "qty": 5,
+        "price": 180,
+        "value": 900
+    },
+    {
+        "date": "27-05-2026 01:04:08",
+        "action": "ADDED",
+        "symbol": "TSLA",
+        "qty": 3,
+        "price": 250,
+        "value": 750
+    },
+    {
+        "date": "27-05-2026 01:04:23",
+        "action": "ADDED",
+        "symbol": "NVDA",
+        "qty": 2,
+        "price": 900,
+        "value": 1800
+    }
+]
