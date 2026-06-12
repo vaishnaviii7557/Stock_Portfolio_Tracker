@@ -1,5 +1,5 @@
 # Stock Portfolio Tracker 📈
-CodeAlpha Python Internship — Task 2
+
 
 ## Features
 - Add/Remove/Update stocks
@@ -12,4 +12,4 @@ CodeAlpha Python Internship — Task 2
 python stock_tracker.py
 
 ## Author
-Vaishnavi | CodeAlpha Intern
+Vaishnavi 
