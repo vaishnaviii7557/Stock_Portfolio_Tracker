@@ -1,7 +1,6 @@
 """
 Stock Portfolio Tracker
-CodeAlpha Python Internship - Task 2
-Author: Vaishnavi
+
 """
 
 import csv
